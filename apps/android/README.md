@@ -2,7 +2,7 @@
 
 | Protocol          | Description                                                          | Download                                                                                                                                                                                                                         |
 | ----------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Wireguard         | The official WireGuard app for Android.                              | [Google Play Store](https://play.google.com/store/apps/details?id=com.wireguard.android) or [Direct Download Link](https://download.wireguard.com/android-client/com.wireguard.android-1.0.20231018.apk)                         |
+| Wireguard         | Official WireGuard app for Android.                              | [Google Play Store](https://play.google.com/store/apps/details?id=com.wireguard.android) or [Direct Download Link](https://download.wireguard.com/android-client/com.wireguard.android-1.0.20231018.apk)                         |
 | OpenVPN           | Official OpenVPN app for Android.                                    | [Google Play Store](https://play.google.com/store/apps/details?id=net.openvpn.openvpn) (No official direct download link)                                                                                                        |
 | Shadowsocks       | Official ShadowSocks protocol app for Android.                       | [Google Play Store](https://play.google.com/store/apps/details?id=com.github.shadowsocks) or [Direct Download Link](https://github.com/shadowsocks/shadowsocks-android/releases/download/v5.3.3/shadowsocks-universal-5.3.3.apk) |
 | [Trojan](#trojan) | [v2rayNG](#v2rayng) supports Vless, Trojan, and Wireguard protocols. | [Google Play Store](https://play.google.com/store/apps/details?id=com.v2ray.ang) or [Direct Download Link](#direct-download)                                                                                                     |
@@ -29,4 +29,4 @@
 - `armeabi-v7a`: For older and some mid-range devices (Huawei, Xiaomi, etc.).
 - `x86` & `x86_64`: For very old Android devices.
 
-We recommend joining to the v2ray [Telegram Releases Channel](https://t.me/github_2dust) to stay up-to-date with the latest releases.
+We recommend joining to the [v2rayNG Telegram Releases Channel](https://t.me/github_2dust) to stay up-to-date with the latest releases.
