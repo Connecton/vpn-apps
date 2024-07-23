@@ -1,10 +1,10 @@
 # VPN Apps Repository
 
-This repository is dedicated to storing VPN apps from reliable sources to help users bypass censorship and ensure online privacy. The following are instructions and download links for various VPN apps on different platforms: v2rayNG for Google Android, v2rayN for Windows, and placeholders for iOS, macOS, and Linux.
+This repository stores VPN apps from reliable sources to help users bypass censorship and ensure online privacy. The following are instructions and download links for various VPN apps on different platforms: v2rayNG for Google Android, v2rayN for Windows, and placeholders for iOS, macOS, and Linux.
 
 ## Repository Information
 
-This repository contains links from secure sources to download VPN apps in the safest way. We want to clarify that we are not affiliated or associated with these projects; we merely recommend them for users' convenience and security.
+This repository contains links from secure sources to download VPN apps most safely. We want to clarify that we are not affiliated or associated with these projects; we merely recommend them for users' convenience and security.
 
 **DISCLAIMER:** The provided links are from trustworthy sources. However, users are encouraged to verify the authenticity of the links and apps independently for their security.
 
