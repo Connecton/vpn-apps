@@ -4,7 +4,6 @@
 | ----------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Wireguard         | Official WireGuard client for Windows.                             | [Official Website](https://www.wireguard.com/install/) or [Direct Download Link](https://download.wireguard.com/windows-client/wireguard-installer.exe)                                                        |
 | OpenVPN           | Official OpenVPN client for Windows.                               | [Official Website](https://openvpn.net/client/client-connect-vpn-for-windows/) or [Direct Download Link](https://openvpn.net/downloads/openvpn-connect-v3-windows.msi)                                         |
-| Shadowsocks       | Official ShadowSocks protocol client for Windows.                  | [GitHub Releases](https://github.com/shadowsocks/shadowsocks-windows/releases) or [Direct Download Link](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.4.1.0/Shadowsocks-4.4.1.0.zip) |
 | [Trojan](#trojan) | [v2rayN](#v2rayn) supports Vless, Trojan, and Wireguard protocols. | [GitHub Releases](https://github.com/2dust/v2rayN/releases) or [Direct Download Link](#direct-download)                                                                                                        |
 
 ## Trojan
